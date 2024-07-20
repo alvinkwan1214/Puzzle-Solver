@@ -1,3 +1,3 @@
-Code to solve Puzzle in the game Exponential Idle. 
+Code to solve the Puzzle in the game - Exponential Idle. 
 
-Note: the files and code are not well documented as it is only for persoanal use.
+Note: The files and code are not tidy and well documented as it is only for persoanal use.
